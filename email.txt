@@ -1,0 +1,19 @@
+Hello,
+As you and the team required, I figured out about the solution of the problem:
+
+As first, all the tasks mentioned below has been completed:
+* A NTP server has been created and Name Server has been reviewed, but I found a 8.8.8.8 configuration already
+* Name server, Production (managed) and Develop (unmanaged) networks has been added.
+* Container with Linux (CentOs) and Windows has been uploaded and
+implemented as a 3 tier VM (DB server, Application server and web server) with their
+develop VM (VM clones with their own configuration)
+* Data protection was configured to take snapshots (60 minutes) and of course it was tested.
+
+I Hope all configurations can reach your expectations but if you find something to improve
+or something that should be changed, please let me know. In add, you can find
+in this email an excel report with all the information you need to review about the solution and
+improvements.
+
+Respectfully,
+
+Hybrid Systems Engineer
